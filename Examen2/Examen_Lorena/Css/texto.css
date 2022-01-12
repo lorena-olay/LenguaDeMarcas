@@ -1,0 +1,84 @@
+body{
+
+position:absolute;
+border: 10px #FFF173;
+}
+h1{
+
+position:absolute;
+margin-top: -31px;
+}
+
+.d{
+position:absolute;
+float:left auto;
+}
+
+.i{
+position:absolute;
+float:right auto;
+}
+
+.arriba{
+border:solid  25px #FFF173;
+}
+
+.abajo{
+margin-top: -18px;
+}
+
+.ajuste{
+padding-left: 250px;
+padding-right: 250px;
+padding-top: 80px;
+padding-bottom: 80px;
+}
+
+.contenedor{
+
+position:absolute;
+background:#FFC533 ;
+/*
+border-top:25px;
+border-top-color: currentcolor;
+border-bottom:5px;
+border-right:8px;
+border-left:8px;
+*/
+border:solid 15px #FFC533;
+border-bottom-width: 5px;
+border-left-width: 10px;
+border-right-width: 10px;
+margin:15px;
+}
+.naranja{
+border:solid 5px #FF7700 ;
+margin:5px;
+
+position:absolute;
+}
+.amarillo{
+
+position:absolute;
+
+background:#FFDA33 ;
+border:solid 5px #FFDA33;
+margin-top:5px;
+}
+.titulo{
+
+position:absolute;
+background:#FF7700 ;
+color:white;
+font-weight:bold;
+}
+.cosa{
+
+position:absolute;
+font-weight:bold;
+}
+p{
+
+position:absolute;
+padding:0px 5px;
+}
