@@ -1,0 +1,30 @@
+
+header{
+    background-image:url("fondo1.jpg");
+    margin: 0;
+    height: 120px;
+    width: 100%;
+}
+h1{
+    color: white;
+    margin-left: 37%;
+    padding-top: 25px;
+}
+ul{
+    list-style: none;
+    background-image: url("boton-menu.jpg");
+    margin: 0;
+    height: 30px;
+    width: 100%;
+}
+li{
+    margin-left: 37%;
+
+}
+a:hover{
+    background-image: url("boton-menu2.jpg");
+}
+a{
+    text-decoration: none;
+    color: white;
+}
